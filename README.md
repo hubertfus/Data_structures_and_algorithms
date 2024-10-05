@@ -1,20 +1,19 @@
 # Data Structures and Algorithms
 
-Welcome to my repository where I store all the programs and data structures I have written during my studies for the "Data Structures and Algorithms" course.
+Welcome to my repository where I store all the programs and data structures I have developed during my studies for the "Data Structures and Algorithms" course.
 
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Links to Programs](#links-to-programs)
+2. [Problems List](#problems)
 
 ## Project Description
 
-The goal of this repository is to gather all the programs and algorithms that were created during my studies in the "Data Structures and Algorithms" course. It contains various solutions to problems and implementations of data structures that illustrate the knowledge and skills I have acquired.
+The goal of this repository is to gather all the programs and algorithms created during my studies in the "Data Structures and Algorithms" course. It contains various solutions to problems and implementations of data structures that illustrate the knowledge and skills I have acquired.
 
-## Links to Programs
+## Problems
 
-- [MarsExpedition.java](#mars-expedition-problem)
-
+- [Mars Expedition Problem](#mars-expedition-problem)
 
 ### Mars Expedition Problem
 
@@ -30,10 +29,4 @@ The specialization of the astronauts is as follows:
 
 Due to limited space on the spaceship, the aim is to choose the smallest possible group of astronauts that includes at least one specialist in each of the fields A, B, C, and D.
 
-
-
 Link to the solution: [MarsExpedition.java](https://github.com/hubertfus/Data_structures_and_algorithms/blob/master/src/MarsExpedition.java)
-
-
-
-
