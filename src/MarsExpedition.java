@@ -25,7 +25,7 @@ public class MarsExpedition {
         List<String> astronauts = new ArrayList<>(astronautSpecialties.keySet());
         int n = astronauts.size();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
             List<List<String>> combinations = new ArrayList<>();
             generateCombinations(astronauts, 0, i, new ArrayList<>(), combinations);
             for (List<String> combination : combinations) {
