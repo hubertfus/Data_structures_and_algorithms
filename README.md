@@ -37,4 +37,5 @@ Link to the solution: [MarsExpedition.java](https://github.com/hubertfus/Data_st
 In 1998, Poland's Gross Domestic Product (GDP) was $6,000, and the GDP growth rate was maintained at 6 percent per year. Assuming that the GDP growth rate in Poland remains at the same level in the following years, how many years will it take for Poland's GDP to double? In 1998, Germany's GDP was $12,000, and the GDP growth rate was 1.2 percent per year. Assuming that the GDP growth rate in Germany remains at the same level in the following years, is there a chance that Poland's GDP will equal Germany's GDP within the next 20 years?
 
 Link to the solution in divide and conquer method: [GDPPredictionDAC.java](https://github.com/hubertfus/Data_structures_and_algorithms/blob/master/src/GDPPredictionDAC.java)
+
 Link to the solution in Dynamic programming method: [GDPPredictionDP.java](https://github.com/hubertfus/Data_structures_and_algorithms/blob/master/src/GDPPredictionDP.java)
